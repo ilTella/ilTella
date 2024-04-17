@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilTella
+- 👋 Hi, I’m Alessandro
 - I studied at Università degli Studi di Milano and graduated in Computer Science in 2024
 - Here I will upload some academic and personal projects
 - 📫 How to reach me: ale.tellarini@gmail.com
